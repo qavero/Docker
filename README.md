@@ -1,4 +1,4 @@
-# Docker <img src="https://github.com/qavero/qavero/blob/main/icons/docker1.png" title="" alt="" width="200" height=""/>
+# Docker   <img src="https://github.com/qavero/qavero/blob/main/icons/docker1.png" title="" alt="" width="50" height=""/>
 
 - [docker.com](https://www.docker.com/)
 - [Понимая Docker](https://habr.com/ru/articles/253877/)
