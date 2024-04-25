@@ -12,3 +12,8 @@
 - [Команды Docker CLI](https://docs.docker.com/engine/reference/commandline/docker/)
 - [Docker: как создавать образы контейнеров и развертывать приложения](https://habr.com/ru/articles/776188/)
 - [Docker самый простой и понятный туториал. Изучаем докер, так, если бы он был игровой приставкой](https://badtry.net/docker-tutorial-dlia-novichkov-rassmatrivaiem-docker-tak-iesli-by-on-byl-ighrovoi-pristavkoi/)
+
+### Курсы на степике
+- [Docker для начинающих](https://stepik.org/course/74010/promo?search=3907588271)
+- [Основы работы с Docker](https://stepik.org/course/180211/promo?search=3907588272)
+- [Docker для начинающих + практический опыт](https://stepik.org/course/123300/promo?search=3908038592)
