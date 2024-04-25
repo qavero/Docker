@@ -17,3 +17,9 @@
 - [Docker для начинающих](https://stepik.org/course/74010/promo?search=3907588271)
 - [Основы работы с Docker](https://stepik.org/course/180211/promo?search=3907588272)
 - [Docker для начинающих + практический опыт](https://stepik.org/course/123300/promo?search=3908038592)
+
+### Книги
+- [Парминдер Сингх Кочер "Микросервисы и контейнеры Docker"](https://drive.google.com/file/d/1Od1VRAbgn1yh3ndCkULX2IeeCC3JCOwF/view)
+- [Эдриен Моуэт "Использование Docker"](https://drive.google.com/file/d/1c7g2synfCqSzfDhh1bidXW48JBkgsuE1/view)
+- [Иан Милл "Docker на практике"](https://drive.google.com/file/d/1sXbHNJ2_5_y7ftlkNlHWLUydn7d7wVEz/view)
+- [Эммануил Гадзурас "Docker Compose для разработчика"](https://drive.google.com/file/d/1QvFXoU4gQUd77cD5rkDrG2_YP1kswhkY/view?usp=sharing)
